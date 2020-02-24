@@ -1,63 +1,12 @@
 [submodule "labs/programmability"]
 	path = labs/programmability
 	url = https://github.com/f5devcentral/f5-automation-labs.git
-[submodule "labs/dns"]
-	path = labs/dns
-	url = https://github.com/f5devcentral/f5-agility-labs-dns.git
-[submodule "labs/vdi"]
-	path = labs/vdi
-	url = https://github.com/f5devcentral/f5-agility-labs-vdi.git
-[submodule "labs/ddos"]
-	path = labs/ddos
-	url = https://github.com/f5devcentral/f5-agility-labs-ddos.git
-[submodule "labs/firewall"]
-	path = labs/firewall
-	url = https://github.com/f5devcentral/f5-agility-labs-firewall.git
-[submodule "labs/public-cloud"]
-	path = labs/public-cloud
-	url = https://github.com/f5devcentral/f5-agility-labs-public-cloud.git
 [submodule "labs/irules"]
 	path = labs/irules
 	url = https://github.com/f5devcentral/f5-agility-labs-irules.git
-[submodule "labs/waf"]
-	path = labs/waf
-	url = https://github.com/f5devcentral/f5-agility-labs-waf.git
-[submodule "labs/iam"]
-	path = labs/iam
-	url = https://github.com/f5devcentral/f5-agility-labs-iam.git
-[submodule "labs/private-cloud"]
-	path = labs/private-cloud
-	url = https://github.com/f5devcentral/f5-agility-labs-private-cloud.git
-[submodule "labs/sslviz"]
-	path = labs/sslviz
-	url = https://github.com/f5devcentral/f5-agility-labs-sslviz.git
-[submodule "labs/containers"]
-	path = labs/containers
-	url = https://github.com/f5devcentral/f5-agility-labs-containers.git
 [submodule "labs/adc"]
 	path = labs/adc
 	url = https://github.com/f5devcentral/f5-agility-labs-adc.git
-[submodule "labs/analytics"]
-	path = labs/analytics
-	url = https://github.com/f5devcentral/f5-agility-labs-analytics.git
-[submodule "labs/fps"]
-	path = labs/fps
-	url = https://github.com/f5devcentral/f5-agility-labs-fps.git
-[submodule "labs/gsts"]
-	path = labs/gsts
-	url = https://github.com/f5devcentral/f5-gsts-labs-ansible-cookbook
-[submodule "labs/f5cert"]
-	path = labs/f5cert
-	url = https://github.com/f5devcentral/f5-agility-labs-cert.git
-[submodule "labs/big-iq"]
-	path = labs/big-iq
-	url = https://github.com/f5devcentral/f5-agility-labs-big-iq.git
-[submodule "labs/icontrol-lx"]
-	path = labs/icontrol-lx
-	url = https://github.com/f5devcentral/f5-agility-labs-icontrol-lx.git
-[submodule "labs/sp"]
-	path = labs/sp
-	url = https://github.com/f5devcentral/f5-vnfmanager-labs.git
 [submodule "labs/automation"]
 	path = labs/automation
 	url = https://github.com/f5devcentral/f5-agility-labs-automation.git
